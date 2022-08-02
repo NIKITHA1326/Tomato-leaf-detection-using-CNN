@@ -1,1 +1,4 @@
 # Tomato-leaf-detection-using-CNN
+
+
+**One of the most important and widely used crops in the world is the tomato. The number of tomatoes varies according on the method of fertilisation. The main element affecting crop production quantity and quality is leaf disease. Therefore, it is essential to identify and categorise these illnesses properly. The production of tomatoes is impacted by many illnesses. Earlier recognition eradication of these illnesses would lessen the disease's impact on tomato plants and improve crop productivity.There have been numerous uses of novel identification and classification techniques for some diseases.The goal of the endeavour is to assist farmers in precisely diagnosing early-stage diseases and educating them regarding these illnesses. Models based on Convolutional Neural Networks (CNN) is employed to accurately define and categorise.** 
